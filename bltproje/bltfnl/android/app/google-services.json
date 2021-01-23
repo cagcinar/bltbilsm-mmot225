@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850848543301",
+    "project_id": "zuper-5ddf5",
+    "storage_bucket": "zuper-5ddf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850848543301:android:0b0fafbebc22fe37a8692c",
+        "android_client_info": {
+          "package_name": "com.zuper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850848543301-sqmn10fa3udf181tddi2hll0i0kbblbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGIYe5FqFxPplSlSoIIbNDLE-vQTOn-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850848543301-sqmn10fa3udf181tddi2hll0i0kbblbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
